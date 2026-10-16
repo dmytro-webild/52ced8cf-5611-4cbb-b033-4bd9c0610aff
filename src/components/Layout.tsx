@@ -77,7 +77,7 @@ export default function Layout() {
           items: [
             {
               label: "Instagram",
-              href: "#",
+              href: "https://www.instagram.com/sinanincibarbers/",
             },
             {
               label: "Facebook",
