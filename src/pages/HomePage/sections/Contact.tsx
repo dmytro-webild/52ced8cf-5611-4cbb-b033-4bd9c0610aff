@@ -14,11 +14,11 @@ export default function ContactSection(): React.JSX.Element {
           text="Stilinizi güncellemeye hazır mısınız? Hemen yerinizi ayırtın."
           primaryButton={{
             text: "WhatsApp'tan Randevu Al",
-            href: "https://wa.me/905550000000",
+            href: "https://wa.me/905389303516",
           }}
           secondaryButton={{
             text: "Bizi Arayın",
-            href: "tel:+905550000000",
+            href: "tel:+905389303516",
           }}
           textAnimation="slide-up"
         />
