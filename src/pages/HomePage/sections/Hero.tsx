@@ -20,7 +20,7 @@ export default function HeroSection(): React.JSX.Element {
             text: "Hizmetleri İncele",
             href: "#services",
           }}
-          imageSrc="https://storage.googleapis.com/webild/users/user_3FBXa6FDYWgNAypWnyOHWEsYPkg/uploaded-1792152676067-0mg6w701.jpg"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3FBXa6FDYWgNAypWnyOHWEsYPkg/uploaded-1792153638473-w4b0ngo8.jpg"
           textAnimation="slide-up"
         />
         </SectionErrorBoundary>
