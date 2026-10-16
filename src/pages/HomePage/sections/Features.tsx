@@ -11,7 +11,7 @@ export default function FeaturesSection(): React.JSX.Element {
         <SectionErrorBoundary name="features">
               <FeaturesBentoGrid
           tag="Farkımız"
-          title="Neden Vikings Bay?"
+          title="Neden Vikings Bay Bakım Salonu?"
           description="Bizi tercih etmek için profesyonel nedenleriniz."
           features={[
             {
