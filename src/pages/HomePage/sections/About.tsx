@@ -13,7 +13,7 @@ export default function AboutSection(): React.JSX.Element {
               <AboutFeaturesSplit
           tag="Uzmanlık"
           title="Türkiye Şampiyonu Ustalık"
-          description="2021 ve 2022 Türkiye Berberlik Şampiyonu olan Sinan İnci liderliğindeki Vikings Bay, erkek bakımında altın oran estetiğini merkeze alıyor. Her kesim bir sanat eseri."
+          description="2021 ve 2022 Türkiye Berberlik Şampiyonu olan Sinan İnci liderliğindeki Vikings Bay Bakım Salonu, erkek bakımında altın oran estetiğini merkeze alıyor. Her kesim bir sanat eseri."
           items={[
             {
               icon: Award,
