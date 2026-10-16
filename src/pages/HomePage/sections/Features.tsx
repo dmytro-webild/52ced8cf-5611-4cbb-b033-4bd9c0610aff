@@ -22,7 +22,7 @@ export default function FeaturesSection(): React.JSX.Element {
             {
               title: "Kişisel Tasarım",
               description: "Stil danışmanlığı ile size özel çözümler.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3FBXa6FDYWgNAypWnyOHWEsYPkg/uploaded-1792152676071-jz68fp9i.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3FBXa6FDYWgNAypWnyOHWEsYPkg/uploaded-1792153869202-zn93gmem.jpg",
             },
             {
               title: "Profesyonel Ürünler",
