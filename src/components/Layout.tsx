@@ -34,7 +34,7 @@ export default function Layout() {
       <SiteBackgroundSlot />
       <SectionErrorBoundary name="navbar">
         <NavbarFloatingLogo
-      logo="Vikings Bay"
+      logo="Vikings Bay Bakım Salonu"
       logoImageSrc="https://picsum.photos/seed/logoimagesrc/800/600"
       ctaButton={{
         text: "Randevu Al",
